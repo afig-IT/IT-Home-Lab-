@@ -20,3 +20,6 @@ I’m a Cloud and Network Engineering student at Western Governors University wi
 
 ## Career Goal
 To begin my career in IT as a Help Desk or IT Support Specialist, gain real-world experience supporting users and systems, and continue growing into cloud, networking, and security-focused roles.
+
+## Help Desk Documentation
+- Ticket system and log: `helpdesk_docs/`
