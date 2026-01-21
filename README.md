@@ -22,4 +22,7 @@ I’m a Cloud and Network Engineering student at Western Governors University wi
 To begin my career in IT as a Help Desk or IT Support Specialist, gain real-world experience supporting users and systems, and continue growing into cloud, networking, and security-focused roles.
 
 ## Help Desk Documentation
-- Ticket system and log: `helpdesk_docs/`
+## Help Desk Documentation
+- [Ticket System Folder](helpdesk_docs/)
+- [Ticket 001 — VM Startup Issue](helpdesk_docs/tickets/ticket-001.md)
+- [Ticket 002 — DNS Website Issue](helpdesk_docs/tickets/ticket-002.md)
